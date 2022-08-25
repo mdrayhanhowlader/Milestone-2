@@ -1,0 +1,17 @@
+.container {
+  height: 400px;
+  background-color: burlywood;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.box {
+    background-color: black;
+    border: 3px dashed peru;
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    color: aliceblue;
+    text-align: center;
+}
